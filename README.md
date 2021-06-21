@@ -4,6 +4,6 @@ Data structures implemented in Javascript\
     - Linear Search\
     - Binary Search\
     - Naive string search\
-    - KMP substring search\
+    - KMP substring search
 
-2- sorting algorithms\
+2- sorting algorithms
