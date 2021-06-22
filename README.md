@@ -6,10 +6,10 @@ Data structures implemented in Javascript\
     - Naive string search\
     - KMP substring search
 
-2- sorting algorithms
+2- sorting algorithms\
     - bubble sort\
     - selection sort\
     - insertion sort\
     - merge sort\
     - quick sort\
-    - radix sort\
+    - radix sort
