@@ -13,3 +13,10 @@ Data structures implemented in Javascript\
     - merge sort\
     - quick sort\
     - radix sort
+
+3- Linked List\
+   - Singly LinkedList\
+   - Doubly Linkedlist
+
+4- Stacks\
+5- Queue
