@@ -27,3 +27,10 @@ Data structures implemented in Javascript\
          -DFS Preorder\
          -DFS postorder\
          -DFS inorder
+
+7- Heaps\
+   -minbinaryheap\
+   -maxbinaryheap
+   
+8- priority Queue\
+  -using min binary heap
