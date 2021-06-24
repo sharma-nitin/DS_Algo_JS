@@ -85,7 +85,7 @@ class doublylinkedlist {
        count=this.length-1;
        current = this.tail;
        while(count!==index) {
-           current=current-prev;
+           current=current.prev;
            count--;
        }
      }
@@ -109,7 +109,7 @@ class doublylinkedlist {
     let prevNode = this.get(index-1);
     let nextNode = prevNode.next;
     prevNode.next=newNode;
-    newNode.prev = prevNode;v
+    newNode.prev = prevNode;
     newNode.next=nextNode;
     nextNode.prev=newNode;
     this.length++;
@@ -141,7 +141,7 @@ reverse() {
         current = current.prev;
     }
 
-    if (temp != null) {
+    if (temp !== null) {
      this.head = temp.prev;
      }
      return this;

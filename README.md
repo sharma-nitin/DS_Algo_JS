@@ -19,4 +19,11 @@ Data structures implemented in Javascript\
    - Doubly Linkedlist
 
 4- Stacks\
-5- Queue
+5- Queue\
+6- Tree\
+   -BST tree\
+     -Tree Traversal\
+         -BFS Traversal\
+         -DFS Preorder\
+         -DFS postorder\
+         -DFS inorder

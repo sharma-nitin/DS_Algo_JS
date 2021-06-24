@@ -1,3 +1,6 @@
+//LIFO
+//ALL Operation occur at start/top
+
 class Node{
     constructor(val){
         this.value=val;
