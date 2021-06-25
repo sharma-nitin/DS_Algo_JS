@@ -1,5 +1,6 @@
 # DS_Algo_JS
-Data structures implemented in Javascript\
+Data structures implemented in Javascript
+
 1- searching algorithms\
     - Linear Search\
     - Binary Search\
@@ -34,3 +35,9 @@ Data structures implemented in Javascript\
    
 8- priority Queue\
   -using min binary heap
+
+9- Hash Table
+
+10- Graphs and traversals(bfs & dfs)
+
+11- Dijkstra's Algorithm (shortest path algorithm.)
