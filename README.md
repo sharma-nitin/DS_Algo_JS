@@ -16,11 +16,13 @@ Data structures implemented in Javascript
     - radix sort
 
 3- Linked List\
-   - Singly LinkedList\
+   - Singly LinkedList
    - Doubly Linkedlist
 
-4- Stacks\
-5- Queue\
+4- Stacks
+
+5- Queue
+
 6- Tree\
    -BST tree\
      -Tree Traversal\
