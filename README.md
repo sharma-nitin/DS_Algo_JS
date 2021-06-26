@@ -1,4 +1,4 @@
-# DS_Algo_JS
+# Data Structures & Algorithms in Javascript
 Data structures implemented in Javascript
 
 1- searching algorithms\
